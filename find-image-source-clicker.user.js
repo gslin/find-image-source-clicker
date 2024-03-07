@@ -1,11 +1,11 @@
 // ==UserScript==
-// @name        Find image source clicker
+// @name        Find image source clicker on lens.google.com
 // @namespace   https://github.com/gslin/find-image-source-clicker
 // @match       https://lens.google.com/search*
 // @grant       none
-// @version     0.20240307.0
+// @version     0.20240307.1
 // @author      Gea-Suan Lin <gslin@gslin.org>
-// @description Click "Find image source" automatically
+// @description Click "Find image source" on lens.google.com automatically
 // @license     MIT
 // ==/UserScript==
 
