@@ -4,7 +4,7 @@ Click "Find image source" on lens.google.com automatically.
 
 ## Install
 
-* https://greasyfork.org/en/scripts/489196-find-image-source-clicker
+* https://greasyfork.org/en/scripts/489196-find-image-source-clicker-on-lens-google-com
 
 ## License
 
